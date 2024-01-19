@@ -6,7 +6,7 @@ function onLoginBtnClick(){
     const value = loginInput.value;
     if(value ===""){
         alert("pleasr write your name");
-    }else if (username.length>=15){
+    }else if (username.length<= 15){
         alert("you name is too long.");
     }
 }
