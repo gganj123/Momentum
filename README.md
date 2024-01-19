@@ -1,1 +1,1 @@
-# js-study2-
+# elice-study2
